@@ -1,4 +1,9 @@
-# webpartmentsfrontadmin
+# WebPartments Front Admin
+
+## This code pertains to the Front End Administrator Interface of the Web Partments Framework
+
+See our [Docs](https://sites.google.com/view/sprint-lte/home) for more info.
+
 
 ## Project setup
 ```
